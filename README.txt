@@ -22,6 +22,10 @@ Modal forms can automatically rewrite links to the following forms and place the
 * Comment (modal_forms/nojs/modal_forms/nojs/comment/reply/[nid])
 * Contact (modal_forms/nojs/contact)
 
+Add more node add and node edit
+* Node add (modal_forms/nojs/add/%/type)
+* Node edit (modal_forms/nojs/edit/%node)
+
 
 Webforms:
 --------
